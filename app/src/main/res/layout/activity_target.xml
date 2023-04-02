@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_500"
+    tools:context=".Target_Activity">
+
+    <TextView
+        android:id="@+id/notification_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColorHighlight="@color/white"
+        android:layout_marginLeft="80dp"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/white"
+        android:gravity="center"
+        android:text="Hey folks you are just 3 km away"
+        tools:layout_editor_absoluteX="104dp"
+        tools:layout_editor_absoluteY="5dp" />
+
+
+</LinearLayout>

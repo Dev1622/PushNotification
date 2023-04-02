@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319465257729",
+    "project_id": "pushnotification-e7584",
+    "storage_bucket": "pushnotification-e7584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319465257729:android:b7e280190e92541dcb7900",
+        "android_client_info": {
+          "package_name": "com.twintech.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319465257729-t3j8qqpgnpahccni1iurd50n1u6sd78t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQaEYVOaJxxeizObREKlqaDx0tzys8NVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319465257729-t3j8qqpgnpahccni1iurd50n1u6sd78t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
